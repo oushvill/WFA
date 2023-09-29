@@ -1,0 +1,33 @@
+D:\VSprojects\EXEwork\EXEwork\bin\Debug\EXEwork.exe.config
+D:\VSprojects\EXEwork\EXEwork\bin\Debug\EXEwork.exe
+D:\VSprojects\EXEwork\EXEwork\bin\Debug\EXEwork.pdb
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.AssemblyReference.cache
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.SuggestedBindingRedirects.cache
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.Form1.resources
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.Properties.Resources.resources
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.GenerateResource.cache
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.CoreCompileInputs.cache
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.exe
+D:\VSprojects\EXEwork\EXEwork\obj\Debug\EXEwork.pdb
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\bin\Debug\EXEwork.exe.config
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\bin\Debug\EXEwork.exe
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\bin\Debug\EXEwork.pdb
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.AssemblyReference.cache
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.Form1.resources
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.Properties.Resources.resources
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.GenerateResource.cache
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.csproj.CoreCompileInputs.cache
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.exe
+C:\Users\nv025\Downloads\Telegram Desktop\EXEwork\EXEwork\obj\Debug\EXEwork.pdb
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\bin\Debug\EXEwork.exe.config
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\bin\Debug\EXEwork.exe
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\bin\Debug\EXEwork.pdb
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.csproj.AssemblyReference.cache
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.Form1.resources
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.Properties.Resources.resources
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.csproj.GenerateResource.cache
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.csproj.CoreCompileInputs.cache
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.exe
+C:\Users\nv025\Документы\C# RiderProjects\WFA.exe SiPPO\EXEwork\obj\Debug\EXEwork.pdb

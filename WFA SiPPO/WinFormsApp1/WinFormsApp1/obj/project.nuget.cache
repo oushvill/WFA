@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7qlbHqU+lLqtSIg3RtkH1BFErP9918q11xvfAMFqobk3ui/zRsUbrRbREwoVwkno7ALoutKmsOI1fWpIiCTog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nv025\\Документы\\C# RiderProjects\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nv025\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
+    "C:\\Users\\nv025\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

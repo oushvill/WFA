@@ -1,0 +1,98 @@
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\tsergienko\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\nv025\Downloads\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\nv025\OneDrive\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\nv025\Документы\C# RiderProjects\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Threading.Tasks.Dataflow.dll
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Threading.Tasks.Dataflow.dll
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\nv025\Документы\C# RiderProjects\SiPPO\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
